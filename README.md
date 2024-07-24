@@ -1,0 +1,1 @@
+This is an implementation from the "Penglihatan Komputer dan Analisis Citra" course in the 6th semester, applying computer vision techniques to count the number of individuals in a classroom using the Histogram of Oriented Gradients (HOG), Support Vector Machine (SVM), and sliding window approach
